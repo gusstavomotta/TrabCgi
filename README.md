@@ -1,1 +1,3 @@
-# Trabalho computação gráfica - ATO 1 - Flappy Donkey
+Jogo desenvolvido em PYTHON para a cadeira de computação gráfica.
+
+Consiste em um jogo no estilo Flappy Bird.
