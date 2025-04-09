@@ -1,3 +1,7 @@
+#pip install glfw
+#pip install PyOpenGL
+#pip install PyOpenGL_accelerate
+
 import glfw
 from OpenGL.GL import *
 from OpenGL.GLUT import *
